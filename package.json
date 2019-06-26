@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "faker": "^4.1.0",
+    "firebase": "^6.2.3",
+    "firebase-admin": "^8.2.0"
+  }
+}
